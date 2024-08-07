@@ -14,7 +14,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://andrewclarker-nextjs.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://andrewclarker-nextjs.onrender.com/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -37,13 +37,13 @@ To run **portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/AndrewClarker0524/AndrewClarker-nextjs.git
+sudo git clone https://github.com/softking0503/AndrewClarker-nextjs.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/AndrewClarker0524/AndrewClarker-nextjs.git
+git clone https://github.com/softking0503/AndrewClarker-nextjs.git
 ```
 
 ### Contact
